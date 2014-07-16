@@ -5,7 +5,7 @@ jQuery.fn.mytoolbox = function() {
 
              //$('#test1').fadeOut();
              
-			$(this).fadeOut();
+			$(this).fadeOut();//dd
 
 
         });
